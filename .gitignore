@@ -1,0 +1,20 @@
+﻿# Build output
+target/
+build/
+!**/src/main/**/target/
+.gradle/
+
+# IDE
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.vscode/
+
+# Node
+node_modules/
+
+# OS / logs
+.DS_Store
+*.log
